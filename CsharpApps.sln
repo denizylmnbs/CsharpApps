@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Ticket Reservation S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentExamCalculator", "StudentExamCalculator\StudentExamCalculator.csproj", "{0CDC73D5-0E61-4163-B049-58B7D6F70B2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Cafeteria Menu", "Cinema Cafeteria Menu\Cinema Cafeteria Menu.csproj", "{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0CDC73D5-0E61-4163-B049-58B7D6F70B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CDC73D5-0E61-4163-B049-58B7D6F70B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CDC73D5-0E61-4163-B049-58B7D6F70B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
