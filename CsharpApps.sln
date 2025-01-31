@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanelLoginSystem", "AdminPanelLoginSystem\AdminPanelLoginSystem.csproj", "{A88AEEBF-8B5B-4FFC-9A9F-C7AAC4FC9F69}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentExamCalculator", "StudentExamCalculator\StudentExamCalculator.csproj", "{0CDC73D5-0E61-4163-B049-58B7D6F70B2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema Cafeteria Menu", "Cinema Cafeteria Menu\Cinema Cafeteria Menu.csproj", "{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscountCalculator", "DiscountCalculator\DiscountCalculator.csproj", "{11608C2D-9293-4E5C-BE4F-3CA9A32DFD38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3C34AB-0B38-49B0-8A2D-CE5EA2948351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11608C2D-9293-4E5C-BE4F-3CA9A32DFD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11608C2D-9293-4E5C-BE4F-3CA9A32DFD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11608C2D-9293-4E5C-BE4F-3CA9A32DFD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11608C2D-9293-4E5C-BE4F-3CA9A32DFD38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
